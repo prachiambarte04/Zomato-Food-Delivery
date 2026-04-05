@@ -72,11 +72,7 @@ Performed advanced SQL operations:
 
 ## 📈 Dashboard Preview
 
-### Page 1
-![Dashboard Page 1](dashboard_page1.png)
-
-### Page 2
-![Dashboard Page 2](dashboard_page2.png)
+**Dashboard:** https://github.com/prachiambarte04/Zomato-Food-Delivery/tree/main/dashboard
 
 ---
 
